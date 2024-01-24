@@ -4,6 +4,17 @@ You've heard of PokeAPI, here is MonHunAPI!
 MonHunAPI is a public API passion project created by Patricia Lo (pkwlo) and Shaun Sy (ShaunMLS) that gathers details of all monster information from the game series Monster Hunter by Capcom into one API. 
 It is free to use for anyone who wants to use it in their Monster Hunter companion apps and websites. After creating the API, we plan on using it in our very on hunting companion app! Stay tuned and happy hunting!
 
+## Install and set up
+To set up a virtual environment on your project
+
+```python3 -m venv env-scrapy-mongodb```
+
+```env-scrapy-mongodb\Scripts\activate```
+
+To install project dependencies in your project
+
+```python -m pip install scrapy ​​'pymongo[srv]'```
+
 ## Features
 - TBA
   
